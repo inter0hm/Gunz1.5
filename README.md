@@ -1,4 +1,7 @@
 # prolib's Gunz1.5 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5e05fe134e249ceaaeb4ab19bc2e529)](https://app.codacy.com/gh/inter0hm/Gunz1.5?utm_source=github.com&utm_medium=referral&utm_content=inter0hm/Gunz1.5&utm_campaign=Badge_Grade)
+
 This source is made by Jetman, but the state it got released in isnt the greatest.
 So, since I'm very nice, here is a better "Jetman Source".
 
